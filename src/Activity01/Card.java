@@ -37,6 +37,7 @@ public class Card {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
                 //jkhjkhjkh
                 //Code
+                //hjkhkhk
 	}
 
 
